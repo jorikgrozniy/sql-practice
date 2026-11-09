@@ -1,6 +1,6 @@
 SELECT
-	name
-,	age
+	name,
+	age
 FROM
 	person
 WHERE
